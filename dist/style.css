@@ -48,3 +48,4 @@ html{-webkit-text-size-adjust:100%;text-size-adjust:100%;scroll-padding-top:90px
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
 
 @media(max-width:380px){.discipline-grid>a{flex-direction:column;align-items:flex-start;gap:8px}.discipline-grid b{font-size:14px;overflow-wrap:normal}}
+.app-trademark{position:fixed;right:max(12px,env(safe-area-inset-right));bottom:max(10px,env(safe-area-inset-bottom));z-index:20;padding:5px 9px;border:1px solid #cbd7cf;border-radius:999px;background:#f8faf8e6;color:#6f8077;font-size:10px;letter-spacing:.04em;box-shadow:0 2px 8px #173b2812;backdrop-filter:blur(5px);pointer-events:none}.app-trademark span{color:#a4b1aa;margin:0 3px}@media print{.app-trademark{display:none}}
