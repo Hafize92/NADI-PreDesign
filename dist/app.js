@@ -1,4 +1,4 @@
-const APP_VERSION='1.3.0';
+const APP_VERSION='1.4.0';
 const icons=[`<path d="m3 17 6-9 4 5 3-3 5 7M3 21h18M7 3h4"/>`,`<path d="M3 7h18M5 7l3 13h8l3-13M8 12h8M9 16h6M10 3v4m4-4v4"/>`,`<path d="m8 3-4 18M16 3l4 18M12 3v4m0 3v4m0 3v4"/>`,`<path d="M3 7h6v6h6v4h6M3 11h2v6h6v4h10M17 3v7m-3-3 3 3 3-3"/>`,`<path d="M12 3S5 11 5 15a7 7 0 0 0 14 0c0-4-7-12-7-12ZM9 16a3 3 0 0 0 3 3"/>`,`<path d="M3 5h6v6h6V5h6M3 9h2v6h5v6h4v-6h5V9h2"/>`];
 const modules=[{name:'Earthworks',subs:['Temp Earth Drain']},{name:'Erosion and Sediment Control',subs:['Silt Trap','Sediment Basin']},{name:'Internal Roads',subs:[]},{name:'Drainage System',subs:['Drainage Check']},{name:'Water Reticulation',subs:[]},{name:'Sewerage Network',subs:[]}];
 const shortNames=['Earthworks','Erosion','Roads','Drainage','Water','Sewerage'];
